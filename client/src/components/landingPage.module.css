@@ -1,0 +1,41 @@
+body{
+  background-image: url('../assets/earth.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.background{
+  height: 180px;
+  width: 400px;
+  background-image: url('../assets/MoonlitAsteroid.jpg');
+  margin:250px auto;
+  border-radius: 30px;
+  
+}
+
+.leboton{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  
+}
+
+.leboton h1{
+  color: white;
+}
+
+.lpbtn{
+  height: 3rem;
+  width: 15rem;
+  font-size: 20px;
+  font-family: monospace;
+  border: 1px solid black;
+  border-radius: 10px; 
+}
+
+.c4u{
+  font-size: 40px;
+  font-family: monospace;
+}
